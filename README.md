@@ -19,7 +19,8 @@ Estoy constantemente aprendiendo y poniendo a prueba dichos conocimientos con lo
 
 #### ***EN DATA SCIENCE*** (repositorio aún no creado)
 
-<img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" width="50" height="50" alt="GIF de Giphy"/>
++ <img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" width="100" height="100" alt="GIF de Giphy"/>
+
 
 En este apartado espero poder incluir proyectos 
 que estén relacionados a:
