@@ -1,16 +1,32 @@
-## Hi there 👋
+## ¡Qué tal 👋! Bienvenido/a a mi GitHub
 
-<!--
-**Piacqua/Piacqua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Franco y estoy interesado en el análisis de datos y la programación. Actualmente, me estoy formando como **Data Analyst** con la intención, a futuro, de convertirme en **Data Scientist**.
 
-Here are some ideas to get you started:
+Actualmente en mi GitHub encontrarás un repositorio con proyectos dedicados al **análisis de datos** y, próximamente, un repositorio con proyectos que se enfoquen en la **ciencia de datos**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estoy constantemente aprendiendo y poniendo a prueba dichos conocimientos con los diferentes proyectos que realizo y publico [aquí](https://github.com/Piacqua?tab=repositories).
+
+### Tecnologías y herramientas que uso:
+
+#### ***EN DATA ANALYTICS***
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+#### ***EN DATA SCIENCE*** (repositorio aún no creado)
+
+<img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" width="50" height="50" alt="GIF de Giphy"/>
+
+En este apartado espero poder incluir proyectos 
+que estén relacionados a:
++ **La creación de modelos de machine learning**
++ **Realización de análisis predictivos**
++ **Creación de visualizaciones avanzadas**
+
+##### **MI LINKEDIN**
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-piacquadio-2b061524a/)
