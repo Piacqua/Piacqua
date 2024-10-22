@@ -28,6 +28,8 @@ que estén relacionados a:
 + **Realización de análisis predictivos**
 + **Creación de visualizaciones avanzadas**
 
-##### **MI LINKEDIN**
+##### **CONTACTO**
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-piacquadio-2b061524a/)
+[![Gmail](https://img.shields.io/badge/gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piacqua2030@gmail.com)
+
