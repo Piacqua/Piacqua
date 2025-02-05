@@ -1,10 +1,4 @@
-## ¡Qué tal 👋! Bienvenido/a a mi GitHub
-
-Mi nombre es Franco y estoy interesado en el análisis de datos y la programación. Actualmente, me estoy formando como **Data Analyst** con la intención, a futuro, de convertirme en **Data Scientist**.
-
-Actualmente en mi GitHub encontrarás un repositorio con proyectos dedicados al **análisis de datos** y, próximamente, un repositorio con proyectos que se enfoquen en la **ciencia de datos**.
-
-Estoy constantemente aprendiendo y poniendo a prueba dichos conocimientos con los diferentes proyectos que realizo y publico [aquí](https://github.com/Piacqua?tab=repositories).
+## Qué tal 👋 | Bienvenido/a a mi GitHub
 
 ### Tecnologías y herramientas que uso:
 
@@ -21,12 +15,17 @@ Estoy constantemente aprendiendo y poniendo a prueba dichos conocimientos con lo
 
 + <img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" width="100" height="100" alt="GIF de Giphy"/>
 
-
 En este apartado espero poder incluir proyectos 
 que estén relacionados a:
 + **La creación de modelos de machine learning**
 + **Realización de análisis predictivos**
 + **Creación de visualizaciones avanzadas**
+
+Mi nombre es Franco y estoy interesado en el análisis de datos y la programación. Actualmente, me estoy formando como **Data Analyst** con la intención, a futuro, de convertirme en **Data Scientist**.
+
+Actualmente en mi GitHub encontrarás un repositorio con proyectos dedicados al **análisis de datos** y, próximamente, un repositorio con proyectos que se enfoquen en la **ciencia de datos**.
+
+Estoy constantemente aprendiendo y poniendo a prueba dichos conocimientos con los diferentes proyectos que realizo y publico [aquí](https://github.com/Piacqua?tab=repositories).
 
 ##### **CONTACTO**
 
