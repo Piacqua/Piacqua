@@ -1,6 +1,6 @@
 ## Qué tal 👋 | Bienvenido/a a mi GitHub
 
-### Tecnologías y herramientas que uso:
+### Tecnologías y herramientas que utilizo:
 
 #### ***EN DATA ANALYTICS***
 
