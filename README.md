@@ -1,8 +1,8 @@
 ## Qué tal 👋 | Bienvenido/a a mi GitHub
 
-### Tecnologías y herramientas que utilizo:
+### Tecnologías y herramientas que utilizo en mis proyecto de:
 
-#### ***EN DATA ANALYTICS***
+#### ***DATA ANALYTICS***
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -11,7 +11,7 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-#### ***EN DATA SCIENCE*** (repositorio aún no creado)
+#### ***DATA SCIENCE*** (repositorio aún no creado)
 
 + <img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" width="100" height="100" alt="GIF de Giphy"/>
 
